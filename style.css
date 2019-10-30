@@ -85,7 +85,7 @@ p {
 
 }
 
-.icon_social > li > a > i{
+.icon_social {
   font-size: 30px;
   color: #92C9FF;
 }
