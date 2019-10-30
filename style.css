@@ -85,12 +85,12 @@ p {
 
 }
 
-.icon_social {
+.icon_social < li < a < i{
   font-size: 30px;
   color: #92C9FF;
 }
 
-.icon_social:hover {
+.icon_social:hover{
   color: #FFA000;
   transition: ease 0.3s;
 }
